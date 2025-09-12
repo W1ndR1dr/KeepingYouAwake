@@ -2,7 +2,7 @@
 
 ## Changelog
 
-### v.1.6.8
+### v.1.6.8 (2025-09-12)
 
 - added a light/dark/clear app icon for macOS 26 Tahoe
 
